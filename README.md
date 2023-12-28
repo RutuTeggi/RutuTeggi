@@ -1,5 +1,4 @@
-![logo](https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg)
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
+![logo](https://e1.pxfuel.com/desktop-wallpaper/544/325/desktop-wallpaper-anime-programming-anime-programmer-thumbnail.jpg">
 
 <h1 align="center">Hi 👋, I'm Rutu Teggi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
