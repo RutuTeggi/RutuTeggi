@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fgirl-coding-designing-with-pc-illustration_27976279.htm&psig=AOvVaw15w6GqSW7Xs8GSli3pB8yB&ust=1703869880542000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjGq4_QsoMDFQAAAAAdAAAAABAD)
+![logo](banner_image.avif)
 
 <h1 align="center">Hi 👋, I'm Rutu Teggi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
