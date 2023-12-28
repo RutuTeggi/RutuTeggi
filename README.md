@@ -1,4 +1,5 @@
 ![logo](https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg)
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
 
 <h1 align="center">Hi 👋, I'm Rutu Teggi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
