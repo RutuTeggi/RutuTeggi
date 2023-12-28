@@ -1,4 +1,4 @@
-![logo](banner_image.avif)
+![logo](https://github.com/rututeggi/rututeggi/blob/main/banner_image.avif)
 
 <h1 align="center">Hi 👋, I'm Rutu Teggi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
