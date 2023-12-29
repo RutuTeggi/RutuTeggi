@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Profile</title>
+    <title>Rutu's GitHub Profile</title>
 </head>
 <body style="font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; background-color: #f8f8f8; padding: 20px;">
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Rutu Teggi 👋
 
-I'm a passionate [Your Profession/Interest] based in [Your Location]. I love to [What you love to do or your interests].
+I'm a passionate about software Engineer. I love to code.
 
 ## 🔧 Technologies & Tools
 
@@ -21,14 +21,33 @@ I'm a passionate [Your Profession/Interest] based in [Your Location]. I love to 
 
 ## 🚀 Projects
 
-- [Project 1](link-to-project-1): Short description of the project.
-- [Project 2](link-to-project-2): Short description of the project.
+- Project Management Tool
+  • Developed and maintained responsive web applications using HTML, CSS, and JavaScript.
+  • Collaborated with cross-functional teams to implement new features and improve user 
+    experience.
+  • Conducted code reviews to ensure code quality and adherence to best practices.
+
+- Video Conferencing Website
+  • Worked on the front-end development of a customer-facing e-commerce platform using HTML, 
+    CSS, and JavaScript.
+  • Integrated CSS animations to enhance user interactions and create visually appealing 
+    transitions, contributing to an enriched user experience.
+  • Designed and implemented interactive web forms using HTML and JavaScript, enhancing 
+    user engagement and data collection efficiency.
+
+- Content Management Tool 
+ • Implemented responsive image handling techniques, utilizing HTML and CSS to ensure optimal 
+   image display across various device resolutions and screen sizes.
+ • Managed browser storage efficiently using JavaScript, optimizing data storage and 
+   retrieval for improved application performance.
+ • Utilized CSS preprocessors like SASS to streamline stylesheet development, resulting in 
+   cleaner and more maintainable stylesheets for complex web applications.
 <!-- Add more projects with their descriptions -->
 
 ## 🌱 I’m currently learning
 
-- [Technology/Framework 1](link-to-learning-resource-1)
-- [Technology/Framework 2](link-to-learning-resource-2)
+- Codeiginiter framework
+- Advanced JavaScript
 <!-- Add more learning resources -->
 
 ## 📫 Connect with me
