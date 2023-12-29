@@ -9,7 +9,7 @@
 
 # Hello, I'm Rutu Teggi 👋
 
-I'm a passionate about software Engineer. I love to code.
+I'm passionate about software engineering. I love to code.
 
 ## 🔧 Technologies & Tools
 
@@ -21,42 +21,35 @@ I'm a passionate about software Engineer. I love to code.
 
 ## 🚀 Projects
 
-- Project Management Tool
-  • Developed and maintained responsive web applications using HTML, CSS, and JavaScript.
-  • Collaborated with cross-functional teams to implement new features and improve user 
-    experience.
-  • Conducted code reviews to ensure code quality and adherence to best practices.
+- **Project Management Tool**
+  - Developed and maintained responsive web applications using HTML, CSS, and JavaScript.
+  - Collaborated with cross-functional teams to implement new features and improve user experience.
+  - Conducted code reviews to ensure code quality and adherence to best practices.
 
-- Video Conferencing Website
-  • Worked on the front-end development of a customer-facing e-commerce platform using HTML, 
-    CSS, and JavaScript.
-  • Integrated CSS animations to enhance user interactions and create visually appealing 
-    transitions, contributing to an enriched user experience.
-  • Designed and implemented interactive web forms using HTML and JavaScript, enhancing 
-    user engagement and data collection efficiency.
+- **Video Conferencing Website**
+  - Worked on the front-end development of a customer-facing e-commerce platform using HTML, CSS, and JavaScript.
+  - Integrated CSS animations to enhance user interactions and create visually appealing transitions, contributing to an enriched user experience.
+  - Designed and implemented interactive web forms using HTML and JavaScript, enhancing user engagement and data collection efficiency.
 
-- Content Management Tool 
- • Implemented responsive image handling techniques, utilizing HTML and CSS to ensure optimal 
-   image display across various device resolutions and screen sizes.
- • Managed browser storage efficiently using JavaScript, optimizing data storage and 
-   retrieval for improved application performance.
- • Utilized CSS preprocessors like SASS to streamline stylesheet development, resulting in 
-   cleaner and more maintainable stylesheets for complex web applications.
+- **Content Management Tool**
+  - Implemented responsive image handling techniques, utilizing HTML and CSS to ensure optimal image display across various device resolutions and screen sizes.
+  - Managed browser storage efficiently using JavaScript, optimizing data storage and retrieval for improved application performance.
+  - Utilized CSS preprocessors like SASS to streamline stylesheet development, resulting in cleaner and more maintainable stylesheets for complex web applications.
 <!-- Add more projects with their descriptions -->
 
 ## 🌱 I’m currently learning
 
-- Codeiginiter framework
+- Codeigniter framework
 - Advanced JavaScript
 <!-- Add more learning resources -->
 
 ## 📫 Connect with me
 
-- <a href="https://www.linkedin.com/in/rutu-teggi-7162a41a2/"></a>
+- [LinkedIn](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
 
 ## ⚡ Fun fact
 
-I enjoy Coding.
+I enjoy coding.
 
 </body>
 </html>
