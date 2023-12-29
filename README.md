@@ -4,58 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your GitHub Profile</title>
-    <!-- Add any additional styling here -->
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f8f8f8;
-            padding: 20px;
-        }
-
-        h1 {
-            color: #0366d6;
-        }
-
-        h2 {
-            color: #24292e;
-        }
-
-        p {
-            margin-bottom: 10px;
-        }
-
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            margin: 0 5px;
-            border-radius: 3px;
-            font-size: 14px;
-        }
-
-        .html-badge {
-            background-color: #e44d26;
-            color: #fff;
-        }
-
-        .css-badge {
-            background-color: #264de4;
-            color: #fff;
-        }
-
-        .bootstrap-badge {
-            background-color: #563d7c;
-            color: #fff;
-        }
-
-        .javascript-badge {
-            background-color: #f0db4f;
-            color: #333;
-        }
-    </style>
 </head>
-<body>
+<body style="font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; background-color: #f8f8f8; padding: 20px;">
 
 # Hello, I'm [Your Name] 👋
 
@@ -63,10 +13,10 @@ I'm a passionate [Your Profession/Interest] based in [Your Location]. I love to 
 
 ## 🔧 Technologies & Tools
 
-<span class="badge html-badge">HTML</span>
-<span class="badge css-badge">CSS</span>
-<span class="badge bootstrap-badge">Bootstrap</span>
-<span class="badge javascript-badge">JavaScript</span>
+<span style="display: inline-block; padding: 5px 10px; margin: 0 5px; border-radius: 3px; font-size: 14px; background-color: #e44d26; color: #fff;">HTML</span>
+<span style="display: inline-block; padding: 5px 10px; margin: 0 5px; border-radius: 3px; font-size: 14px; background-color: #264de4; color: #fff;">CSS</span>
+<span style="display: inline-block; padding: 5px 10px; margin: 0 5px; border-radius: 3px; font-size: 14px; background-color: #563d7c; color: #fff;">Bootstrap</span>
+<span style="display: inline-block; padding: 5px 10px; margin: 0 5px; border-radius: 3px; font-size: 14px; background-color: #f0db4f; color: #333;">JavaScript</span>
 <!-- Add more badges for technologies/tools you use -->
 
 ## 🚀 Projects
