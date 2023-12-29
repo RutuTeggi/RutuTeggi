@@ -53,5 +53,61 @@ I'm passionate about software engineering. I love to code.
 
 I enjoy coding.
 
+    <canvas id="snakeCanvas" width="400" height="400"></canvas>
+    <script>
+        const canvas = document.getElementById('snakeCanvas');
+        const ctx = canvas.getContext('2d');
+
+        const boxSize = 20;
+
+        let snake = [{ x: 0, y: 0 }];
+        let food = { x: 0, y: 0 };
+
+        function draw() {
+            // Clear the canvas
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Draw the snake
+            for (let i = 0; i < snake.length; i++) {
+                ctx.fillStyle = i === 0 ? 'green' : 'white';
+                ctx.fillRect(snake[i].x, snake[i].y, boxSize, boxSize);
+            }
+
+            // Draw the food
+            ctx.fillStyle = 'red';
+            ctx.fillRect(food.x, food.y, boxSize, boxSize);
+        }
+
+        function update() {
+            // Move the snake
+            const head = { x: snake[0].x + boxSize, y: snake[0].y };
+            snake.unshift(head);
+
+            // Check for collisions
+            if (head.x === food.x && head.y === food.y) {
+                // If the snake eats the food, generate a new food position
+                food = {
+                    x: Math.floor(Math.random() * (canvas.width / boxSize)) * boxSize,
+                    y: Math.floor(Math.random() * (canvas.height / boxSize)) * boxSize
+                };
+            } else {
+                // If the snake doesn't eat the food, remove the last segment
+                snake.pop();
+            }
+        }
+
+        function gameLoop() {
+            update();
+            draw();
+        }
+
+        // Generate initial food position
+        food = {
+            x: Math.floor(Math.random() * (canvas.width / boxSize)) * boxSize,
+            y: Math.floor(Math.random() * (canvas.height / boxSize)) * boxSize
+        };
+
+        setInterval(gameLoop, 100); // Run the game loop every 100 milliseconds
+    </script>
 </body>
 </html>
