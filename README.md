@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rutu's GitHub Profile</title>
+    <h1>Rutu's GitHub Profile</h1>
     <!-- Updated Font Awesome link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-wr5eWCOmF2uLD5fW0MXtvsJ+ZwFMA8iVVHri5YBBj5U0DqEgTICJLjm2X2lE1aMsmUJWWs90eefwsDapJXsq/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
