@@ -25,6 +25,34 @@
         p {
             margin-bottom: 10px;
         }
+
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 0 5px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+
+        .html-badge {
+            background-color: #e44d26;
+            color: #fff;
+        }
+
+        .css-badge {
+            background-color: #264de4;
+            color: #fff;
+        }
+
+        .bootstrap-badge {
+            background-color: #563d7c;
+            color: #fff;
+        }
+
+        .javascript-badge {
+            background-color: #f0db4f;
+            color: #333;
+        }
     </style>
 </head>
 <body>
@@ -35,10 +63,10 @@ I'm a passionate [Your Profession/Interest] based in [Your Location]. I love to 
 
 ## 🔧 Technologies & Tools
 
-![HTML](https://img.shields.io/badge/HTML-5-blue)
-![CSS](https://img.shields.io/badge/CSS-3-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![GitHub](https://img.shields.io/badge/GitHub-100-black)
+<span class="badge html-badge">HTML</span>
+<span class="badge css-badge">CSS</span>
+<span class="badge bootstrap-badge">Bootstrap</span>
+<span class="badge javascript-badge">JavaScript</span>
 <!-- Add more badges for technologies/tools you use -->
 
 ## 🚀 Projects
