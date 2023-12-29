@@ -52,12 +52,11 @@ I'm a passionate about software Engineer. I love to code.
 
 ## 📫 Connect with me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
+- <a href="https://www.linkedin.com/in/rutu-teggi-7162a41a2/"></a>
 
 ## ⚡ Fun fact
 
-I enjoy coding.
+I enjoy Coding.
 
 </body>
 </html>
