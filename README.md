@@ -46,8 +46,7 @@ I'm passionate about software engineering. I love to code.
 <!-- Add more learning resources -->
 
 ## 📫 Connect with me
-
-- [<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn Logo" height="30" width="30"> ](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn Logo" height="30" width="30"> ](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
 
 ## ⚡ Fun fact
 
