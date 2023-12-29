@@ -47,7 +47,7 @@ I'm passionate about software engineering. I love to code.
 
 ## 📫 Connect with me
 
-- [<img src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/08/1637655738-linkedin-101-hero2x.jpg?resize=1200%2C950&ssl=1" alt="LinkedIn Logo" height="30" width="30"> ](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
+- [<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn Logo" height="30" width="30"> ](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
 
 ## ⚡ Fun fact
 
