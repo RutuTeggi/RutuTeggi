@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rutu's GitHub Profile</title>
+    <!-- Include Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-wr5eWCOmF2uLD5fW0MXtvsJ+ZwFMA8iVVHri5YBBj5U0DqEgTICJLjm2X2lE1aMsmUJWWs90eefwsDapJXsq/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body style="font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; background-color: #f8f8f8; padding: 20px;">
 
@@ -45,7 +47,7 @@ I'm passionate about software engineering. I love to code.
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
+- [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/rutu-teggi-7162a41a2/)
 
 ## ⚡ Fun fact
 
