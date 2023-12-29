@@ -57,7 +57,7 @@ I'm a passionate about software Engineer. I love to code.
 
 ## ⚡ Fun fact
 
-I enjoy [something interesting about you].
+I enjoy coding.
 
 </body>
 </html>
